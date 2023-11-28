@@ -1,0 +1,37 @@
+﻿[
+  {
+    "platz": 1,
+    "satz": "Franz kauft mit seinem Bankguthaben ein Auto für 40 000 auf Rechnung mit seinem Bankguthaben.",
+    "soll": "Fahrzeuge",
+    "haben": "VLL",
+    "betrag": 40000
+  },
+  {
+    "platz": 2,
+    "satz": "Der Lastwagen von FranceLogistics wird um 10 000 abgeschrieben.",
+    "soll": "Abschreibung",
+    "haben": "Fahrzeuge",
+    "betrag": 10000
+  },
+  {
+    "platz": 3,
+    "satz": "John Clearance bezahlt seine Miete von 2000 im Monat mit seinem Bankkonto.",
+    "soll": "VLL",
+    "haben": "Bank",
+    "betrag": 10000
+  },
+  {
+    "platz": 4,
+    "satz": "Magnus bekommt auf sein Bankkonto einen Zins von 13 Franken.",
+    "soll": "Bank",
+    "haben": "Finanzertrag",
+    "betrag": 13
+  },
+  {
+    "platz": 5,
+    "satz": "Andreas hat 30 000 von seinem Postkonto als Startkapital investiert und ist nun ein Einzelunternehmer.",
+    "soll": "Post",
+    "haben": "Eigenkapital",
+    "betrag": 30000
+  }
+]
