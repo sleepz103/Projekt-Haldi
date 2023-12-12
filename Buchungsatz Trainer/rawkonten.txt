@@ -1,0 +1,1 @@
+﻿Abschreibungen,Bank,Eigenkapital,Einrichtungen,Fahrzeugaufwand,Fahrzeuge,Finanzaufwand,FLL,Kasse,Lohnaufwand,Maschinen,Mobiliar,Raumaufwand,Sonstiger Betriebsaufwand,Tourenaufwand,Übriger Personalaufwand,VLL,Werbeaufwand,Dienstleistungsertrag,Ertrag,Finanzertrag,Mietertrag,Passiv Darlehen,Tourenertrag,Übriger Ertrag

@@ -1,0 +1,50 @@
+﻿Die Druckerei kauft eine neue Verpackungsmaschine für CHF 170'000.- gegen Rechnung.;Maschinen;VLL;170000
+Die alte Verpackungsmaschine kann bar für CHF 15000.- verkauft werden.;Kasse;Maschinen;15000
+Die Rechnung von CHF 6'400.- für den Transport der neuen Verpackungsmaschine trifft bei der Druckerei ein.;Maschinen;VLL;6400
+Die Rechnung der neuen Verpackungsmaschine von CHF 170'000.- wird per Bank bezahlt.;VLL;Bank;170000
+Die Maschinen werden mit CHF 200'000.- abgeschrieben.;Abschreibungen;Maschinen;200000
+Die Druckerei bezahlt eine bereits verbuchte Rechnung für die Reparatur eines Lieferwagens im Betrag von CHF 7'400.- per Banküberweisung.;VLL;Bank;7400
+Die «RiRo-Druck AG» kauft gegen Rechnung einen Kleinbus für CHF 88'000.-.;Fahrzeuge;VLL;88000
+Ein nicht mehr benötigter Lieferwagen der Druckerei wird einer Garage gegen Rechnung für CHF 8'000.- verkauft.;FLL;Fahrzeuge;8000
+Der aktuelle Fahrzeugbestand wird mit 40'000.- abgeschrieben.;Abschreibungen;Fahrzeuge;40000
+An der Tankstelle bezieht Tanja Benzin Für 85 CHF und bezahlt mit der Debitkarte.;Fahrzeugaufwand;Bank;85
+Tanja kauft Büroverbrauchsmaterial für CHF 37.50 und bezahlt bar.;Sonstiger Betriebsaufwand;Kasse;37.5
+Ende Monat zahlt sich Tanja einen Lohn von CHF 5'200.- aus. Sie überweist den Betrag über das Bankkonto.;Lohnaufwand;Bank;5200
+Tanja erhält die Rechnung des Jahresabonnements einer Zeitschrift von CHF 420.;Sonstiger Betriebsaufwand;VLL;420
+Die Tageseinnahmen von CHF 855.- bringt Tanja auf die Bank.;Bank;Kasse;855
+An einer Messe kauft Tanja eine neue Schere für CHF 1'250.- Sie erhält dafür eine Rechnung vom Verkäufer.;Einrichtungen;VLL;1250
+Tanja bezahlt per Banküberweisung die Jahreszinsen von CHF 1'400.- für das Geschäftsdarlehen ihres Onkels.;Finanzaufwand;Bank;1400
+Die Rechnung der Garage für die Reparatur eines Parkschadens von CHF 1600.- trifft ein.;Fahrzeugaufwand;VLL;1600
+Die Belastungsanzeige der Bank für die Ladenmiete von CHF 2450.- trifft ein.;Raumaufwand;Bank;2450
+In der Dorfzeitschrift schaltet Tanja ein Inserat für CHF 400.- und erhält dafür eine Rechnung.;Werbeaufwand;VLL;400
+Die Rechnung der Zeitschrift in Höhe von 400.- wird per Banküberweisung beglichen.;VLL;Bank;400
+Tanja bezahlt die private Steuerrechnung von CHF 9870.- über das Bankkonto des Geschäfts.;Eigenkapital;Bank;9870
+Der Stammkundin Zoe Bienz schickt Tanja eine Rechnung über CHF 450.-.;FLL;Dienstleistungsertrag;450
+Die Rechnung der Betriebshaftpflichtversicherung von CHF 3200.- trifft ein.;Sonstiger Betriebsaufwand;VLL;3200
+Tanja erhält die Belastungsanzeige der Bank (LSV) von CHF 200.- für Telefonie und WLAN in ihrem Salon.;Sonstiger Betriebsaufwand;Bank;200
+Die Einrichtungen/Geräte werden mit CHF 800.- abgeschrieben.;Abschreibungen;Einrichtungen;800
+Die Belastungsanzeige der Bank für die Kontoführungsspesen von CHF 34.50 trifft ein.;Finanzaufwand;Bank;34.5
+Jovin Cadisch schickt seinen Kunden Rechnungen über 2'500.- für durchgeführte Bergtouren.;FLL;Tourenertrag;2500
+Die Berghütte Alp Laisch sendet dem Unternehmen eine Rechnung der Reservationsgebühr von 350.-. Jovin Cadisch hat die Unterkunft für eine Tour mit mehreren Kunden gebucht.;Tourenaufwand;VLL;350
+An der Tankstelle bezahlt Jovin Cadisch CHF 120.- für eine Tankfüllung für sein privates Fahrzeug in bar.;Eigenkapital;Kasse;120
+Die Belastungsanzeige der Bank (LSV) für das Telefonabonnement seines Geschäftshandys von CHF 200.- trifft ein.;Sonstiger Betriebsaufwand;Bank;200
+Ende Jahr überweist sich Jovin Cadisch CHF 5'000.- Lohn per Bank.;Lohnaufwand;Bank;5000
+Jovin Cadisch kauft neue Bergschuhe für CHF 450.- in bar.;Sonstiger Betriebsaufwand;Kasse;450
+Ein wohlhabender Vater eines betrauten Kindes gewährt der Kita ein Darlehen von CHF 40000.- und zahlt dieses auf das Bankkonto ein.;Bank;Passiv Darlehen;40000
+Die Reparaturrechnung der Garage für das Firmenfahrzeug von CHF 1600.- trifft ein.;Fahrzeugaufwand;VLL;1600
+Monika bezahlt die private Steuerrechnung von CHF 6'720.- über das Bankkonto des Geschäfts.;Eigenkapital;Bank;6720
+An der Tankstelle bezieht eine Mitarbeiterin Benzin für den Firmenbus und bezahlt CHF 102.- mit der Debitkarte der Kita.;Fahrzeugaufwand;Bank;102
+In der lokalen Zeitung schaltet die Kita ein Inserat und erhält die Rechnung von CHF 460.-.;Werbeaufwand;VLL;460
+Für einen Kindergeburtstag an einem Samstag werden die Kita-Räumlichkeiten für CHF 200.- gemietet. Monika stellt dafür eine Rechnung.;FLL;Übriger Ertrag;200
+Die Kita bezahlt die Spesen einer Mitarbeiterin von CHF 86.- mittels Banküberweisung.;Übriger Personalaufwand;Bank;86
+Monika kauft bei der Papeterie Büroverbrauchsmaterial für CHF 121.- in bar.;Sonstiger Betriebsaufwand;Kasse;121
+Der neue Firmenbus und die Rechnung von CHF 52'500.- können bei der Garage Seetal abgeholt werden.;Fahrzeuge;VLL;52500
+Monika kauft einer Mitarbeiterin zum Geburtstag einen Gutschein beim Sportgeschäft Peterhans für CHF 150.- und bezahlt bar.;Übriger Personalaufwand;Kasse;150
+Auf dem neuen Firmenbus wird ein Schriftzug eines Coiffeurgeschäfts angebracht. Die Kita stellt dem Coiffeurgeschäft eine Rechnung über CHF 600.-.;FLL;Übriger Ertrag;600
+Der Kontoauszug der Bank trifft ein. Der gutgeschriebene Jahreszins beträgt CHF 41.-.;Bank;Finanzertrag;41
+Die Bareinnahmen  am Wochenende betragen CHF 2'800.-.;Kasse;Ertrag;2800
+Die Bankbelastungsanzeige für den Eigenlohn von CHF 4'500.- trifft ein.;Lohnaufwand;Bank;4500
+Die Gemeinde subventioniert das Unternehmen mit CHF 1'000.-. Tom schickt der Gemeinde eine Rechnung.;FLL;Übriger Ertrag;1000
+Für die Lagerung der Boote kauft Tom einen neuen Metallständer für CHF 7'000.-gegen Rechnung.;Mobiliar;VLL;7000
+Für einen Firmenevent stellt Tom eine Rechnung über CHF 800.-.;FLL;Mietertrag;800
+Für die Reparatur eines Stand-up-Paddles Kauft Tom für CHF 57.- Verbrauchsmaterial und bezahlt in bar.;Sonstiger Betriebsaufwand;Kasse;57
