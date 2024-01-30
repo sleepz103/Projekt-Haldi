@@ -1,2 +1,2 @@
 # Projekt-Haldi
-Projekt für Herr Haldi, Buchungsatz Trainer, um Finanzsiutationen buchen zu können
+Projekt für Herr Haldi: Buchungsatz Trainer, um Finanzsitutationen buchen zu können.
